@@ -1,0 +1,11 @@
+ID,Name,Age,City,Salary,Department
+1,Rahul,23.0,Mumbai,50000.0,IT
+2,Sneha,25.5,Pune,60000.0,HR
+3,Aman,25.0,Unknown,55000.0,IT
+4,Neha,24.0,Mumbai,61250.0,FINANCE
+5,Rahul,23.0,Mumbai,50000.0,IT
+6,John,30.0,Delhi,70000.0,HR
+7,Anita,25.5,Delhi,65000.0,FINANCE
+8,Vikram,28.0,Pune,72000.0,IT
+9,Neha,24.0,Mumbai,61250.0,FINANCE
+10,Asha,27.0,Chennai,68000.0,HR
